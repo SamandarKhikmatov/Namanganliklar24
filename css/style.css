@@ -1,0 +1,176 @@
+.telegram{
+    background-image:#1E96C8;
+}
+article{
+    background-color:#F6F6F9;
+    display: flex;
+}
+button{
+    background-image: #FE5C28;
+}
+.b{
+    background-color: #295093;
+}
+.telegram{
+    background-color:#1E96C8;
+}
+.p{
+    color: #FFFFFF;
+}
+ul{
+    color: #FFFFFF;
+    display: flex;
+}
+a{
+    font-family: 'Rubik' sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+.notifi{
+    background-image: #EFBA542E;
+}
+.footer{
+    background-color: #295093;
+}
+ul{
+    color: #FFFFFF;
+    display: flex;
+}
+h2{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+p{
+    color: #000;
+}
+a{
+    color: #FFFFFF;
+}
+image a{
+    display: flex;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+a{
+    width: 386px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* prokuror */
+    width: 386px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* karantin */
+    width: 388px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* tez-yordam */
+    width: 388px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* sardoba */
+    width: 386px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* stop-karantin */
+
+
+    
+    width: 386px;
+    height: 190px;
+    background: url(image.png);
+    border-radius: 5px;
+
+
+/* Мирзиёев рассказал, зачем было построено Сардобинское водохранилище */
+    width: 380px;
+    height: 42px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #202020;
+
+
+
+/* Карантин в Узбекистане продлен до 1 июня */
+    width: 370px;
+    height: 22px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #202020;
+
+
+
+/* Обмелевшая Сардоба: стихия или человеческий фактор? */
+    width: 291px;
+    height: 42px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #202020;
+
+
+
+/* Text */
+    width: 125px;
+    height: 19px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+
+
+
+
+/* 05:28 / 16.05.2020 */
+    width: 125px;
+    height: 19px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+
+
+
+
+/* 05:28 / 16.05.2020 */
+    width: 125px;
+    height: 19px;
+    left: 933px;
+    top: 759px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+}
